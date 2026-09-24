@@ -60,7 +60,8 @@ cd /home/z/下载/metersphere-ce-offline-installer-v3.6.8-lts
 
 进入【测试计划】，创建"登录功能测试计划"，关联5条功能用例。
 
-![测试计划](images/test-plan.png)
+![测试计划](images/test-plan01.png)
+![测试计划](images/test-plan02.png)
 
 ### 2.4 缺陷创建
 
