@@ -11,7 +11,8 @@ cd /home/z/下载/metersphere-ce-offline-installer-v3.6.8-lts
 /bin/bash install.sh
 安装完成后，通过 msctl status 查看服务状态。
 
-https://images/install.png
+images/install01.png
+images/install02.png
 
 1.2 登录及问题
 安装成功后，浏览器访问 http://192.168.58.128:8081，使用默认账号登录：
