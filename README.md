@@ -122,28 +122,32 @@ cd /home/z/下载/metersphere-ce-offline-installer-v3.6.8-lts
 - 请求方式：GET
 - 请求地址：/apis/content.halo.run/v1alpha1/tags
 
-![查看标签列表](images/api-tag.png)
+![查看标签列表](images/api-tag01.png)
+![查看标签列表](images/api-tag02.png)
 
 #### 3.2.5 删除回收站文章接口
 
 - 请求方式：DELETE
 - 请求地址：/apis/content.halo.run/v1alpha1/posts/{name}
 
-![删除回收站文章](images/api-delete.png)
+![删除回收站文章](images/api-delete01.png)
+![删除回收站文章](images/api-delete02.png)
 
 #### 3.2.6 查看文章内容接口
 
 - 请求方式：GET
 - 请求地址：/apis/api.console.halo.run/v1alpha1/posts/{name}/release-content
 
-![查看文章内容](images/api-post-content.png)
+![查看文章内容](images/api-post-content01.png)
+![查看文章内容](images/api-post-content02.png)
 
 #### 3.2.7 发布一篇文章接口
 
 - 请求方式：POST
 - 请求地址：/apis/api.console.halo.run/v1alpha1/posts
 
-![发布文章](images/api-publish.png)
+![发布文章](images/api-publish01.png)
+![发布文章](images/api-publish02.png)
 
 ---
 
