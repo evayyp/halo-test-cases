@@ -107,13 +107,15 @@ cd /home/z/下载/metersphere-ce-offline-installer-v3.6.8-lts
 - 请求地址：/apis/content.halo.run/v1alpha1/categories
 
 ![查看分类列表](images/api-category01.png)
+![查看分类列表](images/api-category02.png)
 
 #### 3.2.3 查看单篇文章信息接口
 
 - 请求方式：GET
 - 请求地址：/apis/content.halo.run/v1alpha1/posts/{name}
 
-![查看单篇文章](images/api-post-detail.png)
+![查看单篇文章](images/api-post-detail01.png)
+![查看单篇文章](images/api-post-detail02.png)
 
 #### 3.2.4 查看标签列表接口
 
